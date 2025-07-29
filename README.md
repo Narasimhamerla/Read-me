@@ -57,7 +57,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhamerla)  
-📸 *[Replace with your photo/avatar once uploaded]*
+📸 https://media.licdn.com/dms/image/v2/D5635AQGHmXPVeuP9OQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1732687326517?e=1754377200&v=beta&t=JWIXdLKOneYe_hZmx7FPUBqdg2zh5coWqPITRKCStYg
 
 ---
 
